@@ -5,4 +5,4 @@
 
 This app allows to load any `.cur` file and see how it renders. [Download pre-built Curvi.exe](https://github.com/PeyTy/Curvi/releases)
 
-LPGL-2.1
+#### License LPGL-2.1
